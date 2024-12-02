@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "text": "Success usually comes to those who are too busy to be looking for it."
+    },
+    {
+        "id": 2,
+        "text": "Don\u2019t be afraid to give up the good to go for the great."
+    },
+    {
+        "id": 3,
+        "text": "Opportunities don\u2019t happen. You create them."
+    },
+    {
+        "id": 4,
+        "text": "Invest in yourself. Your career is the engine of your wealth."
+    },
+    {
+        "id": 5,
+        "text": "The goal of a successful investor is to make the best decision possible with the information available."
+    },
+    {
+        "id": 6,
+        "text": "Wealth consists not in having great possessions, but in having few wants."
+    },
+    {
+        "id": 7,
+        "text": "Time in the market beats timing the market."
+    },
+    {
+        "id": 8,
+        "text": "A budget is telling your money where to go instead of wondering where it went."
+    },
+    {
+        "id": 9,
+        "text": "The stock market is filled with individuals who know the price of everything but the value of nothing."
+    },
+    {
+        "id": 10,
+        "text": "Financial freedom is available to those who learn about it and work for it."
+    },
+    {
+        "id": 11,
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking."
+    },
+    {
+        "id": 12,
+        "text": "Innovation distinguishes between a leader and a follower."
+    },
+    {
+        "id": 13,
+        "text": "Business opportunities are like buses; there\u2019s always another one coming."
+    },
+    {
+        "id": 14,
+        "text": "The way to get started is to quit talking and begin doing."
+    },
+    {
+        "id": 15,
+        "text": "An investment in knowledge pays the best interest."
+    },
+    {
+        "id": 16,
+        "text": "The four most dangerous words in investing are: 'This time it\u2019s different.'"
+    },
+    {
+        "id": 17,
+        "text": "Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones."
+    },
+    {
+        "id": 18,
+        "text": "If you really look closely, most overnight successes took a long time."
+    },
+    {
+        "id": 19,
+        "text": "Earn with integrity, spend with purpose, and invest for the future."
+    },
+    {
+        "id": 20,
+        "text": "Successful investing is about managing risk, not avoiding it."
+    },
+    {
+        "id": 21,
+        "text": "Chase the vision, not the money; the money will end up following you."
+    },
+    {
+        "id": 22,
+        "text": "Don\u2019t put all your eggs in one basket."
+    },
+    {
+        "id": 23,
+        "text": "Compound interest is the eighth wonder of the world. He who understands it, earns it."
+    },
+    {
+        "id": 24,
+        "text": "The more you learn, the more you earn."
+    },
+    {
+        "id": 25,
+        "text": "Risk comes from not knowing what you\u2019re doing."
+    },
+    {
+        "id": 26,
+        "text": "Success is not the key to happiness. Happiness is the key to success."
+    },
+    {
+        "id": 27,
+        "text": "You only have to do a few things right in your life so long as you don\u2019t do too many things wrong."
+    },
+    {
+        "id": 28,
+        "text": "The stock market is a device for transferring money from the impatient to the patient."
+    },
+    {
+        "id": 29,
+        "text": "The secret of success is to do the common thing uncommonly well."
+    },
+    {
+        "id": 30,
+        "text": "Formal education will make you a living; self-education will make you a fortune."
+    },
+    {
+        "id": 31,
+        "text": "A man who does not plan long ahead will find trouble at his door."
+    },
+    {
+        "id": 32,
+        "text": "The best investment you can make is in yourself."
+    },
+    {
+        "id": 33,
+        "text": "The purpose of a business is to create and keep a customer."
+    },
+    {
+        "id": 34,
+        "text": "Price is what you pay. Value is what you get."
+    },
+    {
+        "id": 35,
+        "text": "Persistence overshadows even talent as the most valuable resource shaping the quality of life."
+    },
+    {
+        "id": 36,
+        "text": "Financial fitness is not a pipe dream or a state of mind. It\u2019s a reality if you are willing to pursue it and embrace it."
+    },
+    {
+        "id": 37,
+        "text": "Be fearful when others are greedy. Be greedy when others are fearful."
+    },
+    {
+        "id": 38,
+        "text": "Beware the investment activity that produces applause; the great moves are usually greeted by yawns."
+    },
+    {
+        "id": 39,
+        "text": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."
+    },
+    {
+        "id": 40,
+        "text": "A business that makes nothing but money is a poor business."
+    },
+    {
+        "id": 41,
+        "text": "Frugality includes all the other virtues."
+    },
+    {
+        "id": 42,
+        "text": "Do not be embarrassed by your failures, learn from them and start again."
+    },
+    {
+        "id": 43,
+        "text": "Good business leaders create a vision, articulate the vision, passionately own the vision, and relentlessly drive it to completion."
+    },
+    {
+        "id": 44,
+        "text": "Risk is part of the process. Learn to manage it effectively."
+    },
+    {
+        "id": 45,
+        "text": "Simplicity is the ultimate sophistication."
+    },
+    {
+        "id": 46,
+        "text": "Never depend on a single income. Make investments to create a second source."
+    },
+    {
+        "id": 47,
+        "text": "Planning is bringing the future into the present so that you can do something about it now."
+    },
+    {
+        "id": 48,
+        "text": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
+    },
+    {
+        "id": 49,
+        "text": "Winners never quit and quitters never win."
+    },
+    {
+        "id": 50,
+        "text": "In the middle of difficulty lies opportunity."
+    },
+    {
+        "id": 51,
+        "text": "Do one thing every day that scares you."
+    },
+    {
+        "id": 52,
+        "text": "Vision without action is a daydream. Action without vision is a nightmare."
+    },
+    {
+        "id": 53,
+        "text": "The key is in not spending time, but in investing it."
+    },
+    {
+        "id": 54,
+        "text": "Great things in business are never done by one person. They're done by a team of people."
+    },
+    {
+        "id": 55,
+        "text": "Your time is limited, so don\u2019t waste it living someone else\u2019s life."
+    },
+    {
+        "id": 56,
+        "text": "The only limit to our realization of tomorrow will be our doubts of today."
+    },
+    {
+        "id": 57,
+        "text": "Success is not in what you have, but who you are."
+    },
+    {
+        "id": 58,
+        "text": "Success seems to be connected with action. Successful people keep moving."
+    },
+    {
+        "id": 59,
+        "text": "Money is a terrible master but an excellent servant."
+    },
+    {
+        "id": 60,
+        "text": "You miss 100% of the shots you don\u2019t take."
+    },
+    {
+        "id": 61,
+        "text": "Spend wisely today, so you can invest for tomorrow."
+    },
+    {
+        "id": 62,
+        "text": "Luck is great, but most of life is hard work."
+    },
+    {
+        "id": 63,
+        "text": "Invest in as much of yourself as you can. You are your own biggest asset by far."
+    },
+    {
+        "id": 64,
+        "text": "The best way to predict the future is to create it."
+    },
+    {
+        "id": 65,
+        "text": "It always seems impossible until it\u2019s done."
+    },
+    {
+        "id": 66,
+        "text": "Whether you think you can or think you can\u2019t, you\u2019re right."
+    },
+    {
+        "id": 67,
+        "text": "Strive not to be a success, but rather to be of value."
+    },
+    {
+        "id": 68,
+        "text": "Opportunities don't happen. You create them."
+    },
+    {
+        "id": 69,
+        "text": "Money grows on the tree of persistence."
+    },
+    {
+        "id": 70,
+        "text": "Do what you love, and success will follow."
+    },
+    {
+        "id": 71,
+        "text": "If you don't find a way to make money while you sleep, you will work until you die."
+    },
+    {
+        "id": 72,
+        "text": "Motivation is what gets you started. Habit is what keeps you going."
+    },
+    {
+        "id": 73,
+        "text": "A journey of a thousand miles begins with a single step."
+    },
+    {
+        "id": 74,
+        "text": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing."
+    },
+    {
+        "id": 75,
+        "text": "Fall seven times and stand up eight."
+    },
+    {
+        "id": 76,
+        "text": "Live as if you were to die tomorrow. Learn as if you were to live forever."
+    },
+    {
+        "id": 77,
+        "text": "It does not matter how slowly you go as long as you do not stop."
+    },
+    {
+        "id": 78,
+        "text": "Don\u2019t count the days, make the days count."
+    },
+    {
+        "id": 79,
+        "text": "Dream big and dare to fail."
+    },
+    {
+        "id": 80,
+        "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it."
+    },
+    {
+        "id": 81,
+        "text": "Don\u2019t stop when you\u2019re tired. Stop when you\u2019re done."
+    },
+    {
+        "id": 82,
+        "text": "Don\u2019t wish it were easier. Wish you were better."
+    },
+    {
+        "id": 83,
+        "text": "It\u2019s not whether you get knocked down, it\u2019s whether you get up."
+    },
+    {
+        "id": 84,
+        "text": "A winner is a dreamer who never gives up."
+    },
+    {
+        "id": 85,
+        "text": "Success usually comes to those who are too busy to be looking for it."
+    },
+    {
+        "id": 86,
+        "text": "Don\u2019t be afraid to give up the good to go for the great."
+    },
+    {
+        "id": 87,
+        "text": "Opportunities don\u2019t happen. You create them."
+    },
+    {
+        "id": 88,
+        "text": "Invest in yourself. Your career is the engine of your wealth."
+    },
+    {
+        "id": 89,
+        "text": "The goal of a successful investor is to make the best decision possible with the information available."
+    },
+    {
+        "id": 90,
+        "text": "Wealth consists not in having great possessions, but in having few wants."
+    },
+    {
+        "id": 91,
+        "text": "Time in the market beats timing the market."
+    },
+    {
+        "id": 92,
+        "text": "A budget is telling your money where to go instead of wondering where it went."
+    },
+    {
+        "id": 93,
+        "text": "The stock market is filled with individuals who know the price of everything but the value of nothing."
+    },
+    {
+        "id": 94,
+        "text": "Financial freedom is available to those who learn about it and work for it."
+    },
+    {
+        "id": 95,
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking."
+    },
+    {
+        "id": 96,
+        "text": "Innovation distinguishes between a leader and a follower."
+    },
+    {
+        "id": 97,
+        "text": "Business opportunities are like buses; there\u2019s always another one coming."
+    },
+    {
+        "id": 98,
+        "text": "The way to get started is to quit talking and begin doing."
+    },
+    {
+        "id": 99,
+        "text": "An investment in knowledge pays the best interest."
+    },
+    {
+        "id": 100,
+        "text": "The four most dangerous words in investing are: 'This time it\u2019s different.'"
+    }
+]
